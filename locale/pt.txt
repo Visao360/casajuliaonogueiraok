@@ -1,0 +1,65 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_C924C21F_9D3C_E3A3_41D8_F271BCC48392.source = https://api.whatsapp.com/send?phone=5522999004242&text=Ol%C3%A1!!%20Gostaria%20de%20receber%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20casa%20do%20Juli%C3%A3o%20Nogueira.
+LinkBehaviour_C196818F_A2FD_E0A2_41D9_CA08D02DD9D6.source = https://api.whatsapp.com/send?phone=5522999004242&text=Ol%C3%A1!!%20Gostaria%20de%20receber%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20casa%20do%20Juli%C3%A3o%20Nogueira.
+LinkBehaviour_C196F18F_A2FD_E0A2_41DD_1FA2723149DA.source = https://www.google.com.br/maps/place/R.+Moreira+da+Silva,+23+-+Parque+Juliao+Nogueira,+Campos+dos+Goytacazes+-+RJ,+28053-630/@-21.7482771,-41.3580098,17z/data=!3m1!4b1!4m5!3m4!1s0xbdd47153dca05b:0x9ba3d9f5818f14a7!8m2!3d-21.7482821!4d-41.3558211?hl=pt-BR
+LinkBehaviour_C9359158_9D3F_61AD_41D8_5E7028575507.source = https://www.google.com.br/maps/place/R.+Moreira+da+Silva,+23+-+Parque+Juliao+Nogueira,+Campos+dos+Goytacazes+-+RJ,+28053-630/@-21.7482771,-41.3580098,17z/data=!3m1!4b1!4m5!3m4!1s0xbdd47153dca05b:0x9ba3d9f5818f14a7!8m2!3d-21.7482821!4d-41.3558211?hl=pt-BR
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_8652B15F_9D2C_A1A3_41D3_1FF8181B569B.toolTip = SEJA BEM VINDO !!!!
+
+## Media
+
+### Audio
+audiores_A19C6984_9F7F_60A5_41E0_7D1E2DFF7E1D.mp3Url = media/audio_A096C7AA_9F7C_A0ED_41DE_72559103A47F_pt.mp3
+
+### Title
+panorama_93119139_9D35_A1EF_41B6_174435484390.label = Banheiro
+panorama_9311E94E_9D35_A1A2_41E1_A63A3EF62A8D.label = Banheiro área de lazer
+panorama_93108F31_9D34_A1FE_41A8_4E1DBFB32940.label = Corredor 1
+panorama_93116DB8_9D35_60ED_41D9_1779D03C0F88.label = Corredor 2
+panorama_9311A467_9D35_E062_41B4_067AEF11E14B.label = Corredor interno 1
+panorama_93118CA2_9D35_A0E2_41CA_E42DA786497E.label = Cozinha
+panorama_931211C4_9D34_A0A5_41B4_F1A2A0F349FE.label = Entrada
+panorama_92A111E5_9D34_A066_41E3_91F5A3731787.label = Fachada
+panorama_9311E523_9D35_E1E3_41CD_537A0EC2C2F6.label = Quarto 1
+panorama_9311AFD1_9D35_A0BF_41B0_4E64ED9669CD.label = Quarto 2
+panorama_93106787_9D35_A0A3_41DA_B27E2844E5A7.label = Sala
+panorama_93114BA2_9D35_60E2_41E2_4AD26310E50B.label = Área de lazer
+panorama_93119B96_9D35_60A2_41E0_D59F60F2558A.label = Área de serviço
+
+## Skin
+
+### Tooltip
+IconButton_FD73DAC1_A2F4_A09E_41E2_0432EBF60CFF.toolTip = Fullscreen
+IconButton_FD73DAC1_A2F4_A09E_41E2_0432EBF60CFF_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Casa Julião Nogueira
+
+## VR Menu
+
+### Text
+MenuItem_C391BF4D_A373_A1A6_41DF_6519A70CFE91.label = Banheiro
+MenuItem_C391AF4D_A373_A1A6_41C3_C42721DE0DD6.label = Banheiro área de lazer
+MenuItem_C3918F4D_A373_A1A6_419A_2C6CA83D9823.label = Corredor 1
+MenuItem_C3924F4D_A373_A1A6_41CD_C863D6810528.label = Corredor 2
+MenuItem_C391FF4D_A373_A1A6_41DE_E47BE5B18BD0.label = Corredor interno 1
+MenuItem_C3912F4D_A373_A1A6_41B7_2C3123EF2443.label = Cozinha
+MenuItem_C390DF5D_A373_A1A6_41D2_F429BAE2193A.label = Entrada
+MenuItem_C390BF5D_A373_A1A6_41CA_6D25445E5ECF.label = Fachada
+Menu_C8006957_9D2C_A1A2_41D2_B2EC5B6E73DF.label = Media
+MenuItem_C3908F5D_A373_A1A6_41B1_08EA6746F4AB.label = Quarto 1
+MenuItem_C3926F4D_A373_A1A6_419E_1A466B68FA7C.label = Quarto 2
+MenuItem_C3924F4D_A373_A1A6_41E4_06FE3D4091E9.label = Sala
+MenuItem_C390AF5D_A373_A1A6_41E0_4337BE30E487.label = Área de lazer
+MenuItem_C3910F4D_A373_A1A6_41DD_4BA4A7C0B1DA.label = Área de serviço
